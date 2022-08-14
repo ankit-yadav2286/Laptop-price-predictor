@@ -1,7 +1,15 @@
 # Laptop-price-predictor
 
-we have created a laptop price predictor model with user interface in which if you provide all the specifications of the laptop to this model it will give 
-you the approximate price of the Laptop.
-For user interface i have used streamlit.
-I have performed all the necessary EDA steps here as well with hyperparameter tuning for better results.
-Model is giving r-2 score of above 89%.
+Created a laptop price predictor model with user interface based on the Features and specifications of the Laptop.
+
+Performed Univariate analysis on all columns,feature Engineering on relevant columns with the help of statiscal concepts 
+and used the correlation matrix to identify the best performinmg features.
+
+Experimented with Linear Regression,Ridge Regression,lasso regression,KNN,Decision Tree,SVM,Random Forest,Boosting and stacking algorithms
+and got the R2 score of 90% approx with the Stacking on test data.
+
+For user interface used streamlit.
+
+This model will assist new Laptop companies in understanding the market and reducing the features and reducing the 
+cost of unnecessary features/specifications in Laptop.
+
