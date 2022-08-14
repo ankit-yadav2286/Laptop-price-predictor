@@ -1,4 +1,4 @@
-# Laptop-price-predictor
+# Laptop-price-Range-Prediction
 
 Created a laptop price predictor model with user interface based on the Features and specifications of the Laptop.
 
